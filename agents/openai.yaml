@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lean Harness"
+  short_description: "引导初始化、需求冻结并持续维护通用 Harness 项目治理"
+  default_prompt: "使用 $lean-harness 引导我为当前项目初始化 Harness 工作区，并按项目类型确认 Git 和可选文件设置。"
+policy:
+  allow_implicit_invocation: true

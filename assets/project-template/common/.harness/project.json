@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "layout_version": 2,
+  "project": "__PROJECT_ID__",
+  "name": __PROJECT_NAME_JSON__,
+  "root": __PROJECT_ROOT_JSON__,
+  "project_type": "__PROJECT_TYPE__",
+  "requirements": {
+    "mode": "__REQUIREMENTS_MODE__",
+    "sources": __REQUIREMENTS_SOURCES_JSON__
+  },
+  "summary": "待澄清",
+  "created_at": null,
+  "initialized_at": "__DATE__",
+  "boundaries": {
+    "git": "user-managed",
+    "public_paths": [],
+    "release_paths": []
+  }
+}
